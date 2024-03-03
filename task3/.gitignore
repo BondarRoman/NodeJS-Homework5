@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Файли збірки та локальні конфігураційні файли
+/build
+/config
+
+# IDE та редактори
+.vscode
+.idea
+*.suo
+*.ntvs*
+
+# Логи та файли зберігання сесій
+/logs
+/sessions
+
+# Тимчасові файли
+.DS_Store
+Thumbs.db
+
+# Інші згенеровані файли
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
